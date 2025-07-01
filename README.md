@@ -1,4 +1,9 @@
 ## Hi there 👋
+Sou um desenvolvedor Front-End apaixonado por transformar ideias em interfaces bonitas e funcionais. Tenho experiência com HTML, CSS, JavaScript e React, e estou sempre em busca de aprender novas tecnologias e melhorar meus projetos.
+
+💻 Aqui você encontrará alguns dos meus repositórios com projetos pessoais, onde aplico conceitos de design responsivo, interatividade e boas práticas de desenvolvimento web.
+
+🚀 Vamos codar o futuro juntos!
 
 <!--
 **Hitech-Igor/Hitech-Igor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

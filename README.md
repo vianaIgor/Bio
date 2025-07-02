@@ -1,9 +1,12 @@
 <h1>## Hi there 👋</h1>
 <strong> Meu nome é Igor e sou um desenvolvedor Front-End apaixonado por transformar ideias em interfaces bonitas e funcionais. Tenho experiência com HTML, CSS, JavaScript e React, e estou sempre em busca de aprender novas tecnologias e melhorar meus projetos.</strong>
-
+<br>
+<br>
 💻 Aqui você encontrará alguns dos meus repositórios com projetos pessoais, onde aplico conceitos de design responsivo, interatividade e boas práticas de desenvolvimento web.
-
+<br>
+<br>
 🚀 Vamos codar o futuro juntos!
+<br>
 <br>
 <h2>Experiências:</h2>
 

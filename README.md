@@ -23,7 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianaIgor&hide_progress=true_icons=true&theme=transparent)
 <h2>Contato:</h2>
 <a href="https://api.whatsapp.com/send?phone=+5519997115743&text=Igor+Viana+Sousa"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Meu-Whatsapp" /> </a>
-<a href="https://br.linkedin.com/in/igor-viana-524201188?original_referer=https%3A%2F%2Fwww.google.com%2F"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu-LinkedIn" /> </a>
+<a href="https://www.linkedin.com/in/vianaigor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu-LinkedIn" /> </a>
 
 
 
